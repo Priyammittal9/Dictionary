@@ -1,0 +1,19 @@
+@media (max-width:430px) {
+  body{
+    padding-inline:20px;
+  }
+  main {
+    position: relative;
+    display: block;
+    width: 100%;
+  }
+}
+@media (max-width:400px) {
+.input_section{
+display: block;
+}
+.input_section input{
+width: 100%;
+margin-bottom: 10px;
+}
+}

@@ -1,2 +1,2 @@
 Dictionary
-# [Dictionary](https://Gojo54.github.io/Dictionary/)
+# [Dictionary](https://shinChan54.github.io/Dictionary/)
